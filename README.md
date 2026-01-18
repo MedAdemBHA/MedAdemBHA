@@ -1,103 +1,105 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Animated divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+</p>
 
-
-  
-</a>
-
-
-<!--h1 without bottom border-->
+<!-- Intro -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">Mohamed Adem</a></b>
-        </samp>
-</h3>
-<p align="center">
-  <a href="https://github.com/MedAdemBHA"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-<p align="center"> 
   <samp>
-    「 I am a cs student and front end web application developer from <b>Tunisia</b> 」
+    &gt; Hey there! I’m <b><a target="_blank" href="https://github.com/MedAdemBHA">Mohamed Adem</a></b>
   </samp>
-</p>
-<p align="center">
-   <a href="https://www.linkedin.com/in/medadem" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hafed"/>
-   </a>
-   <a href="mailto:mohamedadembelhadjamor@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-   </a>
-</p>
+</h3>
 
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-✔ Callme: ***BroGrammer*** 😎 <br><br>
-✔ I’m currently **learning** about **Node.js ,Express and MongoDB**<br><br>
-✔ I’m currently **working** on some **Personal Projects** and **Freelance** <br><br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* <br><br><br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-<p align="center">
-
-- **My Go To Tech-Stack**:
-    
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,typescript,tailwind" />
-</p>
-
-<br>
-	
-- **Languages**:
-    
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python" />
-</p>
-
-<br>   
-    
-- **Front-End Development**:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next,typescript,postman,next" />
-</p>
-
-<br>
-
-- **Softwares and Tools**:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,linux,npm,vscode,ubuntu,markdown,powershell,nodejs,bash,gitlab,vite,netlify,stackoverflow" />
-</p>
-
-<br>
-
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<p align="center">
-  <a href="https://github.com/7afde">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MedAdemBHA" alt="MedAdemBHA's GitHub streak"/>
-  </a>
-</p>
 <p align="center">
   <a href="https://github.com/MedAdemBHA">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedAdemBHA&theme=apprentice" alt="MedAdemBHA's GitHub Contribution"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;CS%20Student%20from%20Tunisia;React%20%7C%20Next.js%20%7C%20TypeScript;Always%20learning%20new%20things&center=true&width=520&height=45">
   </a>
 </p>
+
 <p align="center">
-<a href="https://github.com/7afde">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=7afde&show_icons=true&theme=algolia&include_all_commits=true&count_private=true](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MedAdemBHA&theme=apprentice)"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7afde&layout=compact&langs_count=8&theme=algolia&count_private=true"](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MedAdemBHA&theme=apprentice"/>
-</a>
+  <samp>「 CS student & Frontend Web Developer from <b>Tunisia</b> 🇹🇳 」</samp>
 </p>
 
+<!-- Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/medadem" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:mohamedadembelhadjamor@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://github.com/MedAdemBHA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+<img align="right" width="210" alt="coding" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="38"></picture> About me
+
+- ✔ Call me: **BroGrammer** 😎  
+- ✔ Currently learning: **Node.js, Express, MongoDB**  
+- ✔ Working on: **Personal Projects** & **Freelance**  
+- ✔ Fun fact: *I learn something new, then sleep so it stores in my brain* 😅  
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> Skills
+
+### 🚀 My go-to stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,vite" />
+</p>
+
+### 🧠 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,redux" />
+</p>
+
+### 🛠 Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,bash,powershell,nodejs,npm,postman,cloudflare,netlify,vscode" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MedAdemBHA&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MedAdemBHA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAdemBHA&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedAdemBHA&theme=tokyonight" alt="summary" />
+</p>
+
+<br/>
+
+<!-- Footer divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+</p>
+
+<p align="center">
+  <samp>✨ Thanks for visiting — feel free to connect!</samp>
+</p>
