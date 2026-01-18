@@ -1,26 +1,28 @@
-<!-- Animated divider -->
+<!-- =========================================================
+  Mohamed Adem — GitHub Profile README (Clean + Pro)
+  Paste into: https://github.com/MedAdemBHA/MedAdemBHA/blob/main/README.md
+========================================================== -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </p>
 
-<!-- Intro -->
-<h3 align="center">
+<h2 align="center">
   <samp>
-    &gt; Hey there! I’m <b><a target="_blank" href="https://github.com/MedAdemBHA">Mohamed Adem</a></b>
+    Hi, I’m <b><a href="https://github.com/MedAdemBHA" target="_blank">Mohamed Adem</a></b> 👋
   </samp>
-</h3>
+</h2>
 
 <p align="center">
   <a href="https://github.com/MedAdemBHA">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;CS%20Student%20from%20Tunisia;React%20%7C%20Next.js%20%7C%20TypeScript;Always%20learning%20new%20things&center=true&width=520&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Engineer;React%20%7C%20TypeScript%20%7C%20Next.js;Pixel-perfect%20UI%20%26%20Performance;Clean%20Architecture%20%26%20DX;Always%20learning%20new%20things&center=true&width=720&height=45">
   </a>
 </p>
 
 <p align="center">
-  <samp>「 CS student & Frontend Web Developer from <b>Tunisia</b> 🇹🇳 」</samp>
+  <samp>「Frontend Engineer from <b>Tunisia</b> 🇹🇳 」</samp>
 </p>
 
-<!-- Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/medadem" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -35,14 +37,34 @@
 
 <br/>
 
-<img align="right" width="210" alt="coding" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!-- ===================== Counters ====================== -->
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="38"></picture> About me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MedAdemBHA&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/MedAdemBHA?label=Followers&style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/github/stars/MedAdemBHA?label=Stars&style=for-the-badge" alt="stars" />
+  <img src="https://img.shields.io/github/repos/MedAdemBHA?label=Public%20Repos&style=for-the-badge" alt="repos" />
+</p>
 
-- ✔ Call me: **BroGrammer** 😎  
-- ✔ Currently learning: **Node.js, Express, MongoDB**  
-- ✔ Working on: **Personal Projects** & **Freelance**  
-- ✔ Fun fact: *I learn something new, then sleep so it stores in my brain* 😅  
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Remote%20%7C%20Internship-success?style=for-the-badge" alt="open-to" />
+</p>
+
+<br/>
+
+<img align="right" width="220" alt="coding" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<!-- ===================== About ====================== -->
+
+## 👨‍💻 About me
+
+Frontend Engineer with **3+ years** building web applications across product domains like **fintech, delivery, billing, and SaaS dashboards**.  
+I enjoy creating **clean UI**, **reusable components**, **strong UX**, and **maintainable architecture**.
+
+- 🔥 Focus: scalable UI architecture, performance, clean UX
+- 🧩 I enjoy: dashboards, complex forms, multi-step workflows, design systems
+- 🌱 Learning: Node.js, Express, MongoDB (backend fundamentals)
+- 💬 Languages: Arabic (Native), French, English
 
 <br/>
 
@@ -50,26 +72,45 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> Skills
+<!-- ===================== Skills ====================== -->
 
-### 🚀 My go-to stack
+## 🧠 Skills
+
+### 🚀 Frontend (Main)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,vite" />
 </p>
 
-### 🧠 Languages
+### 🧩 UI & State / Forms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python" />
+  <img src="https://skillicons.dev/icons?i=materialui" />
 </p>
 
-### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,redux" />
+  <samp>React Query · Zustand · React Hook Form · Zod · i18next · shadcn/ui</samp>
 </p>
 
-### 🛠 Tools & DevOps
+### 🔌 Backend & APIs (Familiar)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,bash,powershell,nodejs,npm,postman,cloudflare,netlify,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" />
+</p>
+
+<p align="center">
+  <samp>REST APIs · Auth (JWT) · Prisma (basic) · SQL basics</samp>
+</p>
+
+### ⚙️ DevOps / Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,cloudflare,linux,ubuntu" />
+</p>
+
+<p align="center">
+  <samp>CI/CD pipelines · Containers · Reverse proxy basics · Deployments</samp>
+</p>
+
+### 🛠 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,bash" />
 </p>
 
 <br/>
@@ -78,16 +119,36 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /> GitHub Stats
+<!-- ===================== What I've Built ====================== -->
+
+## 🧩 What I’ve built (no project names)
+
+- 💳 **Fintech / Wallet UI** — wallet flows, membership cards, payment UX, admin dashboards  
+- 🧑‍💼 **Recruitment SaaS dashboard** — candidate pipeline, evaluation flows, notifications  
+- ⚽ **League management portal** — registration, RBAC, Arabic/English, scheduling/results  
+- 🚚 **Delivery platform (PWA)** — dashboards, UX revamp, real-time tracking views  
+- 🏭 **Industrial web solution** — production/workforce dashboards + monitoring UI  
+
+<br/>
+
+<!-- ===================== Highlights ====================== -->
+
+## ✅ Highlights
+
+- Built reusable UI components and improved delivery speed with consistent patterns
+- Comfortable with real-world API integration & async state handling
+- Interested in system design from the frontend side (DX, architecture, performance)
+- Experience collaborating with teams using Git workflows and CI/CD
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MedAdemBHA&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MedAdemBHA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAdemBHA&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
+<!-- ===================== Stats ====================== -->
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedAdemBHA&theme=tokyonight" alt="summary" />
@@ -95,7 +156,13 @@
 
 <br/>
 
-<!-- Footer divider -->
+<!-- ===================== Footer ====================== -->
+
+## 🤝 Let’s connect
+
+- LinkedIn: https://www.linkedin.com/in/medadem  
+- Email: mohamedadembelhadjamor@gmail.com  
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </p>
